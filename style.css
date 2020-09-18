@@ -1,0 +1,27 @@
+body{
+    background-color: #20291D;
+}
+
+.logo{
+    position: fixed;
+    overflow: hidden;
+    font-size: 80px ;
+    font-weight: 80;
+    font-style: initial;
+    padding-inline: 450px;
+    align-content: center;
+    border-radius: 100px;
+}
+
+.logo a {
+    text-decoration: none;  
+    color:#999E42;  
+}
+
+div.rolagem{
+    position: absolute;
+    width: 863px;
+    height: 829px;
+    color: #6B9E42;
+    margin: 0px auto;
+}
